@@ -1,7 +1,7 @@
 
 # XOX Game ❌⭕❌
 
-A classic tic-tac-toe game built using Java with an enhanced graphical interface. The game supports two players, features vibrant colors, and includes a reset functionality for a smooth gaming experience.
+XOX Game is an interactive 3x3 tic-tac-toe game designed for two players. It provides a visually engaging experience with colorful graphics, modern fonts, and a user-friendly interface. After the game ends, players can easily reset to start a new match.
 
 
 ## Features
